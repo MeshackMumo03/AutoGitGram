@@ -1,5 +1,5 @@
 ## V1 Overview
-**Version 1** tries to fetche public GitHub repositories, generates a brief summary along with an image, and posts them to Instagram. If posting fails, it sends an email notification.
+**Version 1** tries to fetch public GitHub repositories, generates a brief summary along with an image, and posts them to Instagram. If posting fails, it sends an email notification.
 
 ## Features
 - Fetches public repositories from GitHub.
